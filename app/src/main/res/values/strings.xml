@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TumblrApp</string>
+    <string name="blogpost_image">Blogpost image</string>
+    <string name="tumblr_icon">Tumblr icon</string>
+    <string name="arrow_back">Arrow back</string>
+    <string name="home_screen">Home</string>
+    <string name="details_screen">Details</string>
+    <string name="open_in_browser_icon">Open in browser icon</string>
+    <string name="blogpost_list_empty">Blogpost list is empty!</string>
+    <string name="blogpost_list_null">Blogpost list is null!</string>
+    <string name="retry">Retry</string>
+    <string name="clear_database">Clear db!</string>
+</resources>

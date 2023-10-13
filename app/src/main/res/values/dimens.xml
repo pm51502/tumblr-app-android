@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="blogpost_list_item_border_radius">4.dp</dimen>
+    <dimen name="blogpost_list_item_elevation">4.dp</dimen>
+    <dimen name="blogpost_list_item_padding">8.dp</dimen>
+    <dimen name="blogpost_list_item_horizontal_spacing">5.dp</dimen>
+    <dimen name="blogpost_list_item_image_padding">10.dp</dimen>
+    <dimen name="blogpost_list_item_image_size">75.dp</dimen>
+    <dimen name="blogpost_list_item_vertical_spacing">6.dp</dimen>
+    <dimen name="blogpost_list_padding">8.dp</dimen>
+    <dimen name="blogpost_list_vertical_padding">10.dp</dimen>
+    <dimen name="top_bar_icon_padding">70.dp</dimen>
+    <dimen name="top_bar_icon_size">32.dp</dimen>
+    <dimen name="circular_progress_indicator_width">5.dp</dimen>
+    <dimen name="screen_title_horizontal_padding">15.dp</dimen>
+    <dimen name="screen_title_vertical_padding">5.dp</dimen>
+    <dimen name="blogpost_list_item_vertical_padding">8.dp</dimen>
+    <dimen name="blogpost_details_card_border_radius">4.dp</dimen>
+    <dimen name="blogpost_details_card_elevation">4.dp</dimen>
+    <dimen name="blogpost_details_card_vertical_padding">20.dp</dimen>
+    <dimen name="blogpost_details_card_image_padding">15.dp</dimen>
+    <dimen name="blogpost_details_card_image_size">250.dp</dimen>
+    <dimen name="blogpost_details_card_vertical_spacing">20.dp</dimen>
+    <dimen name="blogpost_details_title_bottom_padding">10.dp</dimen>
+    <dimen name="blogpost_tags_horizontal_padding">8.dp</dimen>
+    <dimen name="blogpost_tags_cross_axis_spacing">12.dp</dimen>
+    <dimen name="blogpost_tags_main_axis_spacing">8.dp</dimen>
+    <dimen name="loading_item_padding">16.dp</dimen>
+</resources>
